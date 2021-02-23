@@ -14,7 +14,7 @@ class FiltersScreen extends StatelessWidget {
             'Filters',
           ),
         ),
-        // drawer: MainDrawer(),
+        drawer: MainDrawer(),
         body: Container(
           child: Text(
             'Filters Screen',
